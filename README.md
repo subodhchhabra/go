@@ -1,10 +1,10 @@
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
+Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)!
 
-Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](http://www.google.com/recaptcha/mailhide/d?k=01KgESkAshOFOWRMyGkcdCEQ==&c=Cmjc2-OpRImyczz0qZ2fupPU5hPh_xmcRLiawYbBE8s=)
+I'm the cofounding partner of [Luminant Data](http://bit.ly/luminantdata), a Data Science Consultancy.
 
 ## The Open-Source Data Science Masters
 
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to make data useful.
+The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
 
 ### The Internet is Your Oyster
 
@@ -20,7 +20,7 @@ We need more Data Scientists.
 
 > There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
 
--- David Hardtke [How To Hire A Data Scientist](http://bit.ly/howtohireadatascientist) 13 Nov 2012
+-- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
 
 ### An Academic Shortfall
 
@@ -41,6 +41,7 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 ## The Open Source Data Science Curriculum
 
 Start here.
+
 **Intro to Data Science** [UW / Coursera](http://bit.ly/uwintrodatascience)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
@@ -61,8 +62,10 @@ Out of personal preference and need for focus, I geared the original curriculum 
 (http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
 * **Linear Algebra & Programming**
+ * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
+ * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
 
 * **Statistics**
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
@@ -78,7 +81,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 
 ### Computing
 
-Get your environment up and running with the [Data Science Toolbox](http://datasciencetoolbox.org)
+Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
@@ -90,7 +93,7 @@ Get your environment up and running with the [Data Science Toolbox](http://datas
 
 * **Databases**
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
- * SQL School [Mode Analytics / Tutorials](http://sqlschool.modeanalytics.com/)
+ * SQL School [Mode Analytics / Tutorials](http://bit.ly/modesqlschool)
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 * **Data Mining**
@@ -103,45 +106,53 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Machine Learning**
 
  _Foundational & Theoretical_
- * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml)
- * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
+ * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
+ * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
 
  _Practical_
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
- * Machine Learning for Hackers [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
+ * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
 
 * **Probabilistic Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
- * Probabalistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
+ * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
 * **Deep Learning (Neural Networks)**
- * Neural Networks [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
+ * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
+ * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
 * **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
 * **Natural Language Processing**
- * From Languages to Information / Stanford CS147 [Materials](http://web.stanford.edu/class/cs124/)
+ * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
 
 * **Analysis**
- * Python for Data Analysis [Paper Book ```$24```](http://amzn.to/Q2pI5I)
+ * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
+ * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
 
 ### Data Design
 
 * **Visualization**
 
- _Foundational Information Design Books_
+ _Data Visualization and Communication_
+ * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
+
+ _Theoretical Design of Information_
 
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
+
+ _Applied Design of Information_
+ * Information Dashboard Design: Displaying Data for At-a-Glance Monitoring [Stephen Few / Book ```$29```](http://amzn.to/1Vwz21v)
 
  _Theoretical Courses / Design & Visualization_
 
@@ -152,7 +163,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  _Practical Visualization Resources_
 
  * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
- * Interactive Data Visualization for the Web / Scott Murray [Online Book](bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
+ * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
 
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
@@ -165,7 +176,12 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 #### **Python** (Libraries)
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
 
-_More Libraries can be found in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
+[Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
+
+ * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
+ * [Pandas Cookbook](http://bit.ly/jvnspandascookbook) (data structure library)
+
+_More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo & in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
  * **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
@@ -183,26 +199,27 @@ _More Libraries can be found in related [specializations](https://github.com/dat
 
  * **Natural Language Processing & Understanding**
    * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit 
-   * [Gensim](http://bit.ly/py-gensim) - Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+   * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
- * **Live Data Packages**
+ * **Data APIs**
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 
 
  * **Visualization Packages**
-   * [matplotlib](http://www.ast.uct.ac.za/~sarblyth/pythonGuide/PythonPlottingBeginnersGuide.pdf) - well-integrated with analysis and data manipulation packages like numpy and pandas
-   * [Orange](http://bit.ly/software-orangeviz) - Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
+   * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
+   * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
 
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
- * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)
+ * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](http://bit.ly/ipyfordataanalysis)
 
-#### Datasets are now [here](http://bit.ly/osdsm-datasets)
+#### Datasets are now [here](http://bit.ly/osdsm-datasets-link)
 
 #### R resources are now [here](http://bit.ly/osdsm-rresources)
 
 ### Data Science as a Profession
 
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
+ * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$22```](http://amzn.to/1J7lILJ)
 
 ### Capstone Project
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
@@ -212,18 +229,24 @@ _More Libraries can be found in related [specializations](https://github.com/dat
 ***
 ### Resources
 
+#### Read
 * [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science 
+* [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
+* [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
+* [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
+* [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
+* [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
+* [/r/MachineLearning](http://bit.ly/1uANaEM)
+
+#### Watch
+* [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
+* [What Data Science Is / Hilary Mason](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
+
+#### Learn
 * [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
 * [Coursera](http://bit.ly/coursera-online-courses) - Online university courses 
 * [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
-* [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
-* The Signal and The Noise - Nate Silver [Pop-Sci Data Analysis ```$15```](http://amzn.to/1hoxQoG)
-* [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
-* [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
-* Josh Wills - The Life of a Data Scientist / [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
-* Data Scientist Interviews [Metamarkets](http://bit.ly/1r1tJot)
-* /r/MachineLearning [Reddit](http://bit.ly/1uANaEM)
 
 ***
 
@@ -232,8 +255,6 @@ Non-Open-Source books, courses, and resources are noted with ```$```.
 
 ## Contribute
 
-Please Contribute Your Ideas -- **this is Open Source!**
-
-Please **showcase your own specialization & transcript** by submitting a markdown file pull request in the ```/transcripts``` directory with your name! eg [```clare-corthell-2014.md```](http://bit.ly/U6yVMU)
+Please Contribute -- **this is Open Source!**
 
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
